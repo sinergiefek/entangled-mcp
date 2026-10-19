@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "entangled-mcp"
+version = "1.0.0"
+description = "Instant Quantum Entanglement & Telepathic Coordination Mesh for Heterogeneous AI Agent CLIs."
+readme = "README.md"
+authors = [
+  { name = "Sinergi Mitra Visitama", email = "oss@sinergiefek.com" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+keywords = [
+  "mcp",
+  "model-context-protocol",
+  "ai-agents",
+  "multi-agent",
+  "swarm",
+  "claude-code",
+  "antigravity",
+  "opencode",
+  "cursor",
+  "telepathy"
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Topic :: Software Development :: Build Tools",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12"
+]
+dependencies = [
+  "mcp>=1.0.0",
+  "pydantic>=2.0.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/sinergiefek/entangled-mcp"
+Repository = "https://github.com/sinergiefek/entangled-mcp.git"
+Issues = "https://github.com/sinergiefek/entangled-mcp/issues"
+
+[project.scripts]
+entangled-mcp = "entangled.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["entangled*"]

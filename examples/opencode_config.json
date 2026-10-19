@@ -1,0 +1,14 @@
+{
+  "mcp": {
+    "servers": {
+      "entangled-mcp": {
+        "type": "local",
+        "command": [
+          "python",
+          "-m",
+          "entangled.cli"
+        ]
+      }
+    }
+  }
+}

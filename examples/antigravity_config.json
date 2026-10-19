@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "entangled-mcp": {
+      "command": "python",
+      "args": [
+        "-m",
+        "entangled.cli"
+      ],
+      "disabled": false
+    }
+  }
+}
