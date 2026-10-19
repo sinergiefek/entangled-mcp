@@ -179,7 +179,7 @@ Add to your project's `.cursor/mcp.json` or global MCP settings:
 
 1. **Terminal 1 (Antigravity CLI):**
    ```text
-   > "Mimi Antigravity, announce yourself to the swarm and start refactoring the Login component."
+   > "Antigravity, announce yourself to the swarm and start refactoring the Login component."
    ```
    *Antigravity acquires lock on `Login.tsx`, writes modern responsive code, and releases the lock.*
    *Antigravity sends a message:* `"opencode: please audit git diff for security and type safety."*
