@@ -3,11 +3,12 @@
 # ⚛️ Entangled-MCP
 ### Instant Quantum Entanglement for Heterogeneous AI Agent CLIs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://python.org)
-[![MCP Protocol: 2024-11-05](https://img.shields.io/badge/MCP-Standard-orange.svg)](https://modelcontextprotocol.io)
-[![Zero-Daemon](https://img.shields.io/badge/Architecture-Zero--Daemon%20SQLite%20WAL-purple.svg)]()
-[![Platform: Cross-CLI](https://img.shields.io/badge/Support-Claude%20%7C%20Gemini%20%7C%20DeepSeek%20%7C%20Cursor-yellow.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-0B1220?style=for-the-badge&logoColor=white)](LICENSE)
+[![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8)](https://python.org)
+[![MCP Protocol: 2026 Ready](https://img.shields.io/badge/MCP-2026_Standard-0B1220?style=for-the-badge&logo=connectwise&logoColor=F59E0B)](https://modelcontextprotocol.io)
+[![Zero-Daemon: SQLite WAL](https://img.shields.io/badge/Engine-Zero--Daemon_WAL-0B1220?style=for-the-badge&logo=sqlite&logoColor=10B981)](README.md)
+[![Swarm: Heterogeneous CLIs](https://img.shields.io/badge/Swarm-Antigravity_%7C_Opencode_%7C_Claude-0B1220?style=for-the-badge&logoColor=EC4899)](README.md)
+[![Architecture: PSTACK](https://img.shields.io/badge/PSTACK-Mandate_6_Compliant-0B1220?style=for-the-badge&logoColor=8B5CF6)](https://github.com/sinergiefek)
 
 **The sovereign, zero-daemon inter-agent nervous system.**  
 Connect **Claude Code, Antigravity CLI, Opencode, Cursor, and DeepSeek** into a single synchronized hive-mind with shared memory, inter-agent messaging, and codebase-aware mutex locks.
